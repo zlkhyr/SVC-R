@@ -6,7 +6,7 @@
 Source code dapat dijalankan dengan meng-clone repository ini ke lokal, caranya pada terminal ketik `git clone` dan paste URL dari repository ini.
 
 ```sh
-git clone https://github.com/zlkhyr/SVC-R
+git clone https://github.com/zlkhyr/SVC-R.git
 ```
 
 Setelah repository berhasil di clone, disarankan untuk membuat `virtual environment` / `venv` didalam project hasil cloning.
