@@ -36,7 +36,7 @@ masih tetap harus membuat `venv` dan menginstall requirements.txt
 ### Klasifikasi
 Dataset yang digunakan untuk klasifikasi adalah dataset yang berisi informasi terkait serangan jantung, digunakan untuk memprediksi apakah seseorang memiliki kemungkinan serangan jantung yang tinggi atau tidak 
 ### Regresi
-Dataset yang digunakan untuk regresi berisikan informasi Nilai siswa termasuk waktu belajar & jumlah mata pelajaran, pada project ini digunakan untuk memprediksi pengaruh waktu belajar dan nilai siswa 
+Dataset yang digunakan untuk regresi berisikan informasi Nilai siswa termasuk waktu belajar & jumlah mata pelajaran, pada project ini digunakan untuk memprediksi nilai siswa dan pengaruhnya dengan waktu belajar
 ## Link Dataset
 - [Dataset Klasifikasi](https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset?resource=download)
 - [Dataset Regresi](https://www.kaggle.com/datasets/yasserh/student-marks-dataset)
